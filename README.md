@@ -1,16 +1,13 @@
-### Hi there 👋
+I'm trying to get back to writing like I used to many years ago, but using modern tooling
 
-<!--
-**sktxdev/sktxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm following the steps outlined by Professor Carr in this video
+https://www.youtube.com/watch?v=UY7sVKJPTMA
 
-Here are some ideas to get you started:
+My philosophy is quite simple, just write, then clean up, so anything you see in this repo will always be in a state of change.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As they say, the only constant in life is change.
+
+
+
+
+
